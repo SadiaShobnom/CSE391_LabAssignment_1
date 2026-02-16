@@ -1,0 +1,3 @@
+For this Assignment 1, I used gemini to fix my wrong code when I was unable to understand my mistakes.
+Gemini explained it to me, and I also used it to analyze the assignment quries properly. 
+I learnt the HTML basics from W3Schools and saw few random youtube videos to grasp on JavaScript in CSS. 
